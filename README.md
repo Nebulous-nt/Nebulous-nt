@@ -12,7 +12,6 @@ HTML5, CSS3, JavaScript (ES6+)
 Responsive Design (Bootstrap, Tailwind CSS)
 
 Backend:
-
 Node.js
 Express.js
 RESTful APIs
