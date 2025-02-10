@@ -3,12 +3,14 @@
 - I'm a passionate Full Stack Web Developer specializing in the MERN stack (MongoDB, Express.js, React, Node.js). I thrive on turning ideas into reality through code, creating dynamic and responsive web applications that provide seamless user experiences.
 
 💻 Skills
-Frontend:
 
+Frontend:
 React.js
 Redux
 HTML5, CSS3, JavaScript (ES6+)
+
 Responsive Design (Bootstrap, Tailwind CSS)
+
 Backend:
 
 Node.js
