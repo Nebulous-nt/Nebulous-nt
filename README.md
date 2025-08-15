@@ -1,6 +1,6 @@
 ## About me
 
-- I'm a passionate Full Stack Web Developer specializing in the MERN stack (MongoDB, Express.js, React, Node.js). I thrive on turning ideas into reality through code, creating dynamic and responsive web applications that provide seamless user experiences.
+- I'm a passionate Full Stack Web Developer specialized in the MERN stack (MongoDB, Express.js, React, Node.js). I thrive on turning ideas into reality through code, creating dynamic and responsive web applications that provide seamless user experiences.
 
 💻 Skills
 
