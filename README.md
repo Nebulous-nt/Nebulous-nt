@@ -70,7 +70,6 @@ While I’m comfortable across the **full stack**, I have a strong interest in *
 ![Nebie's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nebulous-nt&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nebulous-nt&layout=compact&theme=tokyonight)
-![31-day Contribution Activity Graph](https://github-readme-activity-graph.vercel.app/api?username=Nebulous-nt&theme=react-dark&hide_border=true&area=true)
 
 ---
 
