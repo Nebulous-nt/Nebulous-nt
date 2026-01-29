@@ -67,8 +67,6 @@ While I’m comfortable across the **full stack**, I have a strong interest in *
 
 ## 📊 GitHub Stats
 
-![Nebie's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nebulous-nt&show_icons=true&theme=tokyonight)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nebulous-nt&layout=compact&theme=tokyonight)
 
 ---
